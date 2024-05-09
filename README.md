@@ -2,7 +2,7 @@
 
 <p align="center">
 This app keeps track on kilometres traveled on walkes. <br/>
-The interface of the App is in Czech language 🇨🇿, I made it primarly for my husband's home use. <br/>
+ I made it primarly for my husband's home use. <br/>
 I used Python 🐍 and UI Flet to make this works! For full requirements look below. <br/>
 Please feel free to contact me for any tips! 
 </p>
